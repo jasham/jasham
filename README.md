@@ -1,22 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"
-        ><img
-            src="https://github-profile-trophy.vercel.app/?username=jasham009"
-            alt="jasham009"
-    /></a>
-</p>
-
-<p align="left">
-    <a href="https://twitter.com/https://twitter.com/jasham_a" target="blank"
-        ><img
-            src="https://img.shields.io/twitter/follow/https://twitter.com/jasham_a?logo=twitter&style=for-the-badge"
-            alt="https://twitter.com/jasham_a"
-    /></a>
-</p>
-
 - 🌱 I’m currently learning **Typescript** - 👯 I’m looking to collaborate on
 **Opensource** - 💬 Ask me about **React.js, React Native, Node.js, Express.js**
 - 📫 How to reach me **jasham009@gmail.com**
