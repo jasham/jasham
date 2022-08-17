@@ -210,26 +210,3 @@
     </a>
 </p>
 
-<p>
-    <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=jasham009&show_icons=true&locale=en&layout=compact"
-        alt="jasham009"
-    />
-</p>
-
-<p>
-    &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=jasham009&show_icons=true&locale=en"
-        alt="jasham009"
-    />
-</p>
-
-<p>
-    <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jasham009&"
-        alt="jasham009"
-    />
-</p>
