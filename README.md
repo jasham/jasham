@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jasham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Typescript** - 👯 I’m looking to collaborate on
-**Opensource** - 💬 Ask me about **React.js, React Native, Node.js, Express.js**
+- 🌱 I’m currently learning **Typescript** 
+- 👯 I’m looking to collaborate on **Opensource Projects** 
+- 💬 Ask me about **React.js, React Native, Node.js, Express.js**
 - 📫 How to reach me **jasham009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
