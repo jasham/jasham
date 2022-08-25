@@ -214,6 +214,6 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=jasham&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasham&layout=compact)](https://github.com/jasham/github-readme-stats)
 
 
