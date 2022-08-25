@@ -188,7 +188,7 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=jasham&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/https://twitter.com/jasham_a" target="blank"
@@ -221,7 +221,7 @@
     /></a>
 </p>
 
-<br/><br/>
+<br/>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
 
