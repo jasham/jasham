@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jasham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Typescript** 
-- 👯 I’m looking to collaborate on **Opensource Projects** 
-- 💬 Ask me about **HTML5, CSS3, SASS, Javascript, React.js, Next.js, React Native, Node.js, Express.js**
+🌱 I’m currently learning **Typescript** 
+👯 I’m looking to collaborate on **Opensource Projects** 
+💬 Ask me about **HTML5, CSS3, SASS, Javascript, React.js, Next.js, React Native, Node.js, Express.js**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasham&layout=compact)](https://github.com/jasham/github-readme-stats)
 
