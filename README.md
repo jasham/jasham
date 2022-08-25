@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jasham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<br/><br/>
+<br/>
 
 🌱 I’m currently learning **Typescript** <br/>
 👯 I’m looking to collaborate on **Opensource Projects** <br/>
@@ -180,14 +180,13 @@
         />
     </a>
 </p>
-
 <br/>
-
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jasham&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=jasham&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
-
+<br/>
+<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -221,8 +220,6 @@
     /></a>
 </p>
 
-<br/>
-<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
 
 
