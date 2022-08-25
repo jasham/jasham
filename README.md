@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jasham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<br/><br/>
+
 🌱 I’m currently learning **Typescript** <br/>
 👯 I’m looking to collaborate on **Opensource Projects** <br/>
 💬 Ask me about **HTML5, CSS3, SASS, Javascript, React.js, Next.js, React Native, Node.js, Express.js** <br/>
