@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jasham</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jasham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Typescript** 
@@ -208,5 +208,9 @@
             height="40"
         />
     </a>
+</p>
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jasham&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=jasham&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
