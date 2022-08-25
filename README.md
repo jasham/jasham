@@ -3,40 +3,9 @@
 
 - 🌱 I’m currently learning **Typescript** 
 - 👯 I’m looking to collaborate on **Opensource Projects** 
-- 💬 Ask me about **React.js, Next.js, React Native, Node.js, Express.js**
-- 📫 How to reach me jasham009@gmail.com
+- 💬 Ask me about **HTML5, CSS3, SASS, Javascript, React.js, Next.js, React Native, Node.js, Express.js**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/https://twitter.com/jasham_a" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="https://twitter.com/jasham_a"
-            height="30"
-            width="40"
-    /></a>
-    <a
-        href="https://linkedin.com/in/https://www.linkedin.com/in/jasham/"
-        target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/jasham/"
-            height="30"
-            width="40"
-    /></a>
-    <a
-        href="https://stackoverflow.com/users/https://stackoverflow.com/users/9383409/jasham"
-        target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="https://stackoverflow.com/users/9383409/jasham"
-            height="30"
-            width="40"
-    /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasham&layout=compact)](https://github.com/jasham/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -209,11 +178,44 @@
         />
     </a>
 </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/https://twitter.com/jasham_a" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="https://twitter.com/jasham_a"
+            height="30"
+            width="40"
+    /></a>
+    <a
+        href="https://linkedin.com/in/https://www.linkedin.com/in/jasham/"
+        target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/jasham/"
+            height="30"
+            width="40"
+    /></a>
+    <a
+        href="https://stackoverflow.com/users/https://stackoverflow.com/users/9383409/jasham"
+        target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="https://stackoverflow.com/users/9383409/jasham"
+            height="30"
+            width="40"
+    /></a>
+</p>
+
+
+
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jasham&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=jasham&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasham&layout=compact)](https://github.com/jasham/github-readme-stats)
 
 
