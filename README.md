@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Typescript** <br/>
 👯 I’m looking to collaborate on **Opensource Projects** <br/>
-💬 Ask me about **HTML5, CSS3, SASS, Javascript, React.js, Next.js, React Native, Node.js, Express.js** <br/>
+💬 Ask me about **HTML5, CSS3, SASS, Javascript, React.js, Next.js, React Native, Node.js, Express.js** <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasham&layout=compact)](https://github.com/jasham/github-readme-stats)
 
