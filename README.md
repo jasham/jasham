@@ -13,7 +13,7 @@
         <img src="https://komarev.com/ghpvc/?username=FarhAnonymous&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="FarhAnonymous" />
    </a> 
 </div>
-
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasham&layout=compact)](https://github.com/jasham/github-readme-stats)
 
