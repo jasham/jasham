@@ -7,6 +7,13 @@
 👯 I’m looking to collaborate on **Opensource Projects** <br/>
 💬 Ask me about **HTML5, CSS3, SASS, Javascript, React.js, Next.js, React Native, Node.js, Express.js** <br/><br/>
 
+<h3>📈 Visitors Count 👇 </h3>
+<div>
+    <a href="https://github.com/FarhAnonymous" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=FarhAnonymous&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="FarhAnonymous" />
+   </a> 
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasham&layout=compact)](https://github.com/jasham/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
