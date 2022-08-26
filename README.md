@@ -10,7 +10,7 @@
 <h3>📈 Visitors Count 👇 </h3>
 <div>
     <a href="https://github.com/jasham" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=FarhAnonymous&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="FarhAnonymous" />
+        <img src="https://komarev.com/ghpvc/?username=jasham&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jasham" />
    </a> 
 </div>
 <br/>
