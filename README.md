@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Typescript** <br/>
 👯 I’m looking to collaborate on **Opensource Projects** <br/>
-💬 Ask me about **HTML5, CSS3, SASS, Javascript, React.js, Next.js, React Native, Node.js, Express.js** <br/><br/>
+💬 Ask me about **HTML5, CSS3, SASS, Javascript, React.js, Next.js, React Native, Node.js, Express.js, Tailwind** <br/><br/>
 
 <h3>📈 Visitors Count 👇 </h3>
 <div>
